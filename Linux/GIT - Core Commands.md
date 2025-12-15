@@ -39,3 +39,5 @@ Create a merge request via GitHub / GitLab UI.
 export passw='admin'
 set | grep passw
 ```
+
+#sh3 

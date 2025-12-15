@@ -223,8 +223,14 @@ He runs quickly. → adverb
 
 **14. Quick summary (для швидкого повторення)**
 
-|Type of adjective|Comparative|Superlative|
-|---|---|---|
-|Short (1–2 syll)|-er|-est|
-|Long (≥3 syll)|more|most|
-|Irregular|special form|special form|
+| Type of adjective | Comparative  | Superlative  |
+| ----------------- | ------------ | ------------ |
+| Short (1–2 syll)  | -er          | -est         |
+| Long (≥3 syll)    | more         | most         |
+| Irregular         | special form | special form |
+|                   |              |              |
+
+
+
+
+#sh01 

@@ -92,3 +92,5 @@ response = requests.get(url, timeout=5)
     - `print(response.json())` — під час розробки.
     - Для pytest можна підключати `caplog` або `logging`.
 4. Використовуй `pytest.raises` для перевірки виключень при неправильних даних.
+
+#sh3 #pytest #api

@@ -5,3 +5,7 @@
     - `match="division by zero"` — перевірка тексту помилки
 - `pytest --setup-show` — показує як працюють фікстури
 response.raise_for_status() - бібліотека саме кидає момилку від API
+
+
+
+#sh01 

@@ -15,7 +15,6 @@
 - ❓ **Did you use to + V1?**
 
 👉 _I used to go, he didn’t use to like, did you use to swim?_
----
 ### 🔹 **Would**
 
 📘 **Коли вживаємо:**
@@ -31,7 +30,6 @@
 - “Would” не використовується для **станів** (наприклад, _be, have, like_).  
     ❌ _I would be tired after work_ → 🟢 _I used to be tired after work._
 
----
 ### 💡 **Різниця між used to і would:**
 
 |Used to|Would|
@@ -39,3 +37,4 @@
 |Використовується для **станів і дій**, яких більше немає.|Використовується лише для **повторюваних дій**.|
 |✅ I used to live in Spain.|✅ We would visit my grandparents every Sunday.|
 |✅ She used to love chocolate.|❌ She would love chocolate (не кажемо так про стан).|
+#sh01 

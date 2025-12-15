@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ec6f02f737b13c46",
+            "id": "1dc4df494e56f815",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/File & Directory Operations.md",
+                "file": "Python/Object-Oriented Programming (OOP).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,55 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "File & Directory Operations"
-            }
-          },
-          {
-            "id": "79a11591e4aadde2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Python/Pytest/Useful CLI Options.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Useful CLI Options"
-            }
-          },
-          {
-            "id": "df5e16f15378ff50",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Python/Pytest/Pytest-xdist (Parallel Execution.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Pytest-xdist (Parallel Execution"
+              "title": "Object-Oriented Programming (OOP)"
             }
           }
         ]
@@ -111,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "crea",
+                "query": "tag:#sh01",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -137,7 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 297.5
   },
   "right": {
     "id": "8c49baaa45b44081",
@@ -153,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Курс співбесіда/Курс IT-співбесіда/\"Розкажіть щось про себе\".md",
+                "file": "Linux/Commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +115,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for \"Розкажіть щось про себе\""
+              "title": "Backlinks for Commands"
             }
           },
           {
@@ -228,44 +180,44 @@
       "bases:Create new base": false
     }
   },
-  "active": "ec6f02f737b13c46",
+  "active": "1dc4df494e56f815",
   "lastOpenFiles": [
-    "Linux/Commands.md",
-    "English/Adjectives.md",
-    "Linux/GIT - Core Commands.md",
-    "Linux/Python & Virtual Envs.md",
-    "Linux/Systemd and Runlevels.md",
-    "Linux/Search Tools.md",
-    "Linux/Standard  Streams.md",
-    "Linux/Links (Hard & Soft).md",
-    "Linux/File & Directory Operations.md",
-    "Linux/Navigation.md",
+    "English/Past perfect simple vs Past perfect continuous Table.md",
+    "English/Past Simple vs Past Continuous Table.md",
     "My Obsidian Calendar.md",
-    "Linux",
-    "Linux.md",
-    "Python/Pytest/Useful CLI Options.md",
-    "Python/Pytest/Pytest-xdist (Parallel Execution.md",
-    "Python/Book_Testing-Brian-Okken/Plugins.md",
-    "Python/Pytest/Reports.md",
+    "English/English tenses.md",
+    "Untitled.base",
+    "Untitled 1.base",
+    "Python/Threading, Hashing, CSV.md",
+    "Python/Regular Expressions (Regex).md",
+    "Python/Functions.md",
+    "Python/datetime модуль.md",
+    "Python/Boolean and Logical Values.md",
+    "Python/Book_Testing-Brian-Okken/Changing Test Discovery Rules.md",
+    "Python/Book_Testing-Brian-Okken/Specifying Test Directory Locations.md",
+    "Python/Book_Testing-Brian-Okken/Skipping Tests.md",
+    "Python/Book_Testing-Brian-Okken/Running a Subset of Tests.md",
+    "Python/Pytest/Pytest.raises.md",
+    "Python/Pytest/Parametrize Fixture.md",
     "Python/Pytest/Pytest.md",
-    "English/Alternatives to “In my opinion”.md",
+    "Python/Pytest/Багатовимірна parametrize.md",
+    "Linux/Navigation.md",
     "English/USED TO vs WOULD.md",
     "English/Adverbs & Word Order.md",
-    "English/Present Perfect Simple vs Past Simple.md",
-    "English/Past perfect simple vs Past perfect continuous Table.md",
-    "English/Types of Adverbs.md",
-    "курс від Паши/Основи тестування програмного забезпечення.md",
+    "English/Adjectives.md",
+    "API/Шпаргалка API тестуванню на Python.md",
+    "English/Alternatives to “In my opinion”.md",
     "English/Untitled.md",
-    "English/The артикль.md",
-    "курс від Паши",
-    "Untitled.base",
+    "Python/Object-Oriented Programming (OOP).md",
+    "Python/Python.md",
     "Untitled.canvas",
+    "Linux",
+    "курс від Паши",
     "Untitled 1",
     "Курс співбесіда",
     "VibeCode",
     "Python/Book_Testing-Brian-Okken",
     "Курс співбесіда/Курс IT-співбесіда",
-    "English",
-    "API"
+    "English"
   ]
 }

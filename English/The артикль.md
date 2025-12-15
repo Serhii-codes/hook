@@ -30,3 +30,5 @@
 Наприклад:
 - _We didn’t understand **the lecture** last week._ (мова про конкретну лекцію → the)
 - _We didn’t understand lectures last week._ (якщо їх було кілька й кажемо узагальнено → без the).
+
+#sh3
