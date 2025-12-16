@@ -2,10 +2,10 @@ Pytest is a software test framework, which means pytest is a command-line tool t
 automatically finds tests you’ve written, runs the tests, and reports the results.
 [[AQA Automation Basics]]
 [[Parametrize]]
-[[Pytest-xdist (Parallel Execution]]
+[[Pytest-xdist Parallel Execution]]
 [[Reports]]
 [[Running Tests]]
-[[Setup and Teardown( fixture)]]
+[[Setup and Teardown "fixture"]]
 [[Useful CLI Options]]
 [[Fixture Scope]]
 [[Marker Combinations]]

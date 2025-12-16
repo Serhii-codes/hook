@@ -18,4 +18,4 @@ isolated_bild = True - ти ізолюєш свій білд
 
 dep = - вказуєш що ті треба встановити. Ранить всі тести що розміщені в папці
 
- [[yml file fo CI(github actions)]]
+ [[yml file fo CI "github actions"]]

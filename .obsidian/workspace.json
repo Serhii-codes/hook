@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Object-Oriented Programming (OOP).md",
+                "file": "Python/Input and Type Conversion.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Object-Oriented Programming (OOP)"
+              "title": "Input and Type Conversion"
             }
           }
         ]
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#sh01",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,12 +84,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 297.5
+    "width": 432.5
   },
   "right": {
     "id": "8c49baaa45b44081",
@@ -182,14 +181,26 @@
   },
   "active": "1dc4df494e56f815",
   "lastOpenFiles": [
-    "English/Past perfect simple vs Past perfect continuous Table.md",
+    "Python/Regular Expressions \"Regex\".md",
+    "Python/Object-Oriented Programming \"OOP\".md",
+    "Python/Pytest/Parametrize Fixture.md",
+    "Python/Pytest/yml file fo CI \"github actions\".md",
+    "Python/Pytest/Test Order.md",
+    "Python/Pytest/Setup and Teardown \"fixture\".md",
+    "Python/Pytest/Pytest-xdist Parallel Execution.md",
     "English/Past Simple vs Past Continuous Table.md",
-    "My Obsidian Calendar.md",
+    "English/Past perfect simple vs Past perfect continuous Table.md",
+    "English/English Tenses — Full Cheat Sheet.md",
     "English/English tenses.md",
+    "English/Alternatives to “In my opinion”.md",
+    "API/Шпаргалка API тестуванню на Python.md",
+    "Курс співбесіда/Курс IT-співбесіда/Розкажіть щось про себе.md",
+    "Linux/Links Hard & Soft.md",
+    "My Obsidian Calendar.md",
+    "Python/Pytest/Багатовимірна parametrize.md",
     "Untitled.base",
     "Untitled 1.base",
     "Python/Threading, Hashing, CSV.md",
-    "Python/Regular Expressions (Regex).md",
     "Python/Functions.md",
     "Python/datetime модуль.md",
     "Python/Boolean and Logical Values.md",
@@ -198,18 +209,6 @@
     "Python/Book_Testing-Brian-Okken/Skipping Tests.md",
     "Python/Book_Testing-Brian-Okken/Running a Subset of Tests.md",
     "Python/Pytest/Pytest.raises.md",
-    "Python/Pytest/Parametrize Fixture.md",
-    "Python/Pytest/Pytest.md",
-    "Python/Pytest/Багатовимірна parametrize.md",
-    "Linux/Navigation.md",
-    "English/USED TO vs WOULD.md",
-    "English/Adverbs & Word Order.md",
-    "English/Adjectives.md",
-    "API/Шпаргалка API тестуванню на Python.md",
-    "English/Alternatives to “In my opinion”.md",
-    "English/Untitled.md",
-    "Python/Object-Oriented Programming (OOP).md",
-    "Python/Python.md",
     "Untitled.canvas",
     "Linux",
     "курс від Паши",
