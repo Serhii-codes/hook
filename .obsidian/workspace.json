@@ -11,10 +11,24 @@
             "id": "6a27d827c74fe8a8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Linux/Ansible.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Ansible"
             }
           }
         ]
@@ -49,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "#sh01",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,8 +84,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -168,6 +181,10 @@
   },
   "active": "6a27d827c74fe8a8",
   "lastOpenFiles": [
+    "Linux/Disk _ Space commands.md",
+    "Linux/Ansible.md",
+    "Linux/Системи віртуалізації та віртуальні машини (VM).md",
+    "Linux/Commands.md",
     "English/Adjectives.md",
     "Python/Pytest/Pytest.raises.md",
     "English/Past perfect simple vs Past perfect continuous Table.md",
@@ -175,7 +192,6 @@
     "Python/Object-Oriented Programming \"OOP\".md",
     "Python/Functions.md",
     "Python/Book_Testing-Brian-Okken/Configuration Files.md",
-    "Linux/Commands.md",
     "English/Alternatives to “In my opinion”.md",
     "English/USED TO vs WOULD.md",
     "Linux/File & Directory Operations.md",
@@ -191,9 +207,6 @@
     "Python/Pytest/Test Order.md",
     "Python/Pytest/Setup and Teardown \"fixture\".md",
     "Python/Pytest/Pytest-xdist Parallel Execution.md",
-    "English/English Tenses — Full Cheat Sheet.md",
-    "English/English tenses.md",
-    "API/Шпаргалка API тестуванню на Python.md",
     "Untitled.base",
     "Untitled 1.base",
     "Untitled.canvas",
