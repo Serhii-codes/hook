@@ -98,4 +98,4 @@ get used to + V-ing / noun	 Процес звикання	                      
 - ❓ Я **вже звик** → _be used to_
 - ❓ Я **звикаю** → _get used to_
 
-#sh01 
+#sh14
