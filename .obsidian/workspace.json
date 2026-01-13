@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CCNA 200-301/Network Devices.md",
+                "file": "Курс співбесіда/Курс IT-співбесіда/Ваші слабкі сторони.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,35 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Network Devices"
-            }
-          },
-          {
-            "id": "588a37b58d7ee3a4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CCNA 200-301/Cables.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Cables"
+              "title": "Ваші слабкі сторони"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -204,35 +179,37 @@
       "bases:Create new base": false
     }
   },
-  "active": "588a37b58d7ee3a4",
+  "active": "f083e984360d704e",
   "lastOpenFiles": [
+    "Курс співбесіда/Курс IT-співбесіда/Де Ви себе бачите через N років.md",
+    "Курс співбесіда/Курс IT-співбесіда/Ваші слабкі сторони.md",
+    "Курс співбесіда/Курс IT-співбесіда/Важливість підготовки до співбесід.md",
+    "Croso_cables 1.png",
     "Croso_cables.png",
-    "CCNA 200-301/Cables.md",
-    "CCNA 200-301/Packet Tracer.md",
-    "CCNA 200-301/Network Devices.md",
-    "Linux/Disk _ Space commands.md",
-    "CCNA 200-301/CCNA 200-301.md",
-    "Linux/Ansible.md",
-    "Linux/Системи віртуалізації та віртуальні машини (VM).md",
-    "English/USED TO vs WOULD.md",
-    "API/API.md",
-    "CCNA 200-301",
-    "Linux/Commands.md",
-    "English/Adjectives.md",
-    "Python/Pytest/Pytest.raises.md",
-    "English/Past perfect simple vs Past perfect continuous Table.md",
-    "Python/Pytest/Parametrize Fixture.md",
-    "Python/Object-Oriented Programming \"OOP\".md",
-    "Python/Functions.md",
+    "Python/Strings.md",
+    "Python/Book_Testing-Brian-Okken/Skipping Tests.md",
+    "Python/Book_Testing-Brian-Okken/Running a Subset of Tests.md",
+    "Python/Book_Testing-Brian-Okken/Requiring a Minimum pytest Version.md",
+    "Python/Book_Testing-Brian-Okken/Plugins.md",
+    "Python/Book_Testing-Brian-Okken/Monkeypatch.md",
+    "Python/Book_Testing-Brian-Okken/Grouping Syntax Shown by Verbose Listing.md",
+    "Python/Book_Testing-Brian-Okken/Debugging Test Failures in pytest.md",
+    "Python/Book_Testing-Brian-Okken/Creating a Distribution.md",
     "Python/Book_Testing-Brian-Okken/Configuration Files.md",
-    "English/Alternatives to “In my opinion”.md",
-    "Linux/File & Directory Operations.md",
+    "Python/Book_Testing-Brian-Okken/Changing the Default Command-Line Options.md",
+    "Python/Book_Testing-Brian-Okken/Changing Test Discovery Rules.md",
+    "Python/Regular Expressions \"Regex\".md",
+    "Python/Threading, Hashing, CSV.md",
+    "Python/Boolean and Logical Values.md",
+    "Python/Input and Type Conversion.md",
+    "Python/Lists and Dictionaries.md",
+    "Python/Lambda, pass, continue.md",
+    "Linux/Search Tools.md",
+    "Linux/Python & Virtual Envs.md",
     "Linux/GIT - Core Commands.md",
-    "Linux/Links Hard & Soft.md",
-    "Linux/Navigation.md",
-    "My Obsidian Calendar.md",
-    "English/Past Simple vs Past Continuous Table.md",
-    "English/Another Other  Others  The Other  The Others.md",
+    "English/English Tenses — Full Cheat Sheet.md",
+    "English/The артикль.md",
+    "CCNA 200-301",
     "Untitled.base",
     "Untitled 1.base",
     "Untitled.canvas",

@@ -31,30 +31,37 @@ Pytest finds tests according to the following rules:
   [pytest]
   python_classes = *Test Test* *Suite
   ```
+ 
   This allows you to name your classes like:
-  ``` python
-  class DeleteSuite:
-    def test_delete_1(self): ...
-    def test_delete_2(self): ...
-```  
+```python
+class DeleteSuite:
+    def test_delete_1(self):
+        ...
 
- `python_files`
-- By default, pytest looks for test files that:
-    - start with `test_*`, or
-    - end with `*_test`.
-- If you use a custom naming convention (for example, `check_<something>.py`),  
-    you can update `pytest.ini` like this:
-``` ini
+    def test_delete_2(self):
+        ...
+```
+
+**`python_files`**
+By default, pytest looks for test files that:
+- start with `test_*`, or
+- end with `*_test`.
+
+If you use a custom naming convention (for example, `check_<something>.py`),  you can update `pytest.ini` like this:
+```ini
 [pytest]
 python_files = test_* *_test check_*
 ```
- Now pytest will recognize all files matching those patterns as test files.
- 
- ### `python_functions`
-- Works like the previous two settings but applies to test **function** and **method** names.
+
+Now pytest will recognize all files matching those patterns as test files.
+
+**`python_functions`**
+
+Works like the previous two settings but applies to test **function** and **method** names.
 - The default pattern is `test_*`.
-- To also include functions starting with `check_`, add this line:
-```
+
+To also include functions starting with `check_`, add this line:
+```ini
 [pytest]
 python_functions = test_* check_*
 ```
@@ -65,4 +72,4 @@ Pytest’s naming conventions are flexible.
 If you don’t like the defaults, you can change them — but do it for a good reason.  
 For example, migrating hundreds of test files is definitely a valid one.
 
-#sh3 
+#sh01

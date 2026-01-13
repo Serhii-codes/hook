@@ -185,3 +185,6 @@
     - watch → watches
     - study → studies
 6. **Неправильні дієслова (Irregular verbs):** треба вчити таблицю (V1 – V2 – V3).
+   
+   
+#sh01

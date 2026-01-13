@@ -6,3 +6,5 @@ cd Pytest includes a few helpful builtin markers: ***skip, skipif**,* and ***xfa
                     reason='not supported until version 0.2.0') - example intend to make that work in version 0.2.0 of the package
 ```
 With the ***xfail*** marker, we are telling pytest to run a test function, but that we expect it to fail.
+
+#sh01 

@@ -17,3 +17,5 @@ $ ​ pip​​ ​ install​​ ​ --upgrade​​ ​ --no-index​​ ​ -
 ```
 
 This is just like any other use of pip, but with the --no-index --find-links myplugins added.
+
+#sh01 

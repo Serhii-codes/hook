@@ -70,3 +70,5 @@ Task(summary='do something', owner=None, done=False, id=None)
 Корисні джерела
 [Python docs — pdb](https://docs.python.org/3/library/pdb.html)
 [pytest docs — Debugging with pdb](https://docs.pytest.org/en/stable/how-to/failures.html#using-pdb)
+
+#sh01 
