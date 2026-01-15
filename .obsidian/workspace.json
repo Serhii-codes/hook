@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f083e984360d704e",
+            "id": "012c4a16d247abb0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Курс співбесіда/Курс IT-співбесіда/Ваші слабкі сторони.md",
+                "file": "CCNA 200-301/Cables.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,179 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Ваші слабкі сторони"
+              "title": "Cables"
+            }
+          },
+          {
+            "id": "5d431f6ecdd02cce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python/Book_Testing-Brian-Okken/Changing Test Discovery Rules.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Changing Test Discovery Rules"
+            }
+          },
+          {
+            "id": "6e73f20df31e7129",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python/Book_Testing-Brian-Okken/Creating a Distribution.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Creating a Distribution"
+            }
+          },
+          {
+            "id": "2b893cd6bb7a96b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python/Book_Testing-Brian-Okken/Debugging Test Failures in pytest.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Debugging Test Failures in pytest"
+            }
+          },
+          {
+            "id": "f1a23866b8db1966",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "English/English Tenses — Full Cheat Sheet.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "English Tenses — Full Cheat Sheet"
+            }
+          },
+          {
+            "id": "d3f866c0862e3ba6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python/Lists and Dictionaries.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Lists and Dictionaries"
+            }
+          },
+          {
+            "id": "a892154ff0599c35",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linux/Search Tools.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Search Tools"
+            }
+          },
+          {
+            "id": "1477561e5a2a1443",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python/Book_Testing-Brian-Okken/Skipping Tests.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Skipping Tests"
             }
           }
-        ]
+        ],
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -63,7 +232,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#sh01",
+                "query": "tag:#sh7",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,7 +253,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -179,36 +349,36 @@
       "bases:Create new base": false
     }
   },
-  "active": "f083e984360d704e",
+  "active": "8eaf65790aa130ae",
   "lastOpenFiles": [
-    "Курс співбесіда/Курс IT-співбесіда/Де Ви себе бачите через N років.md",
+    "Linux/Search Tools.md",
+    "Python/Lists and Dictionaries.md",
+    "English/English Tenses — Full Cheat Sheet.md",
+    "Python/Book_Testing-Brian-Okken/Debugging Test Failures in pytest.md",
+    "Python/Book_Testing-Brian-Okken/Creating a Distribution.md",
+    "Python/Book_Testing-Brian-Okken/Changing Test Discovery Rules.md",
+    "CCNA 200-301/Cables.md",
+    "My Obsidian Calendar.md",
+    "Python/Book_Testing-Brian-Okken/Skipping Tests.md",
+    "English/Past perfect simple vs Past perfect continuous Table.md",
+    "English/Present Perfect Simple vs Past Simple.md",
+    "English/USED TO vs WOULD.md",
     "Курс співбесіда/Курс IT-співбесіда/Ваші слабкі сторони.md",
+    "Курс співбесіда/Курс IT-співбесіда/Де Ви себе бачите через N років.md",
     "Курс співбесіда/Курс IT-співбесіда/Важливість підготовки до співбесід.md",
     "Croso_cables 1.png",
     "Croso_cables.png",
     "Python/Strings.md",
-    "Python/Book_Testing-Brian-Okken/Skipping Tests.md",
     "Python/Book_Testing-Brian-Okken/Running a Subset of Tests.md",
     "Python/Book_Testing-Brian-Okken/Requiring a Minimum pytest Version.md",
     "Python/Book_Testing-Brian-Okken/Plugins.md",
     "Python/Book_Testing-Brian-Okken/Monkeypatch.md",
     "Python/Book_Testing-Brian-Okken/Grouping Syntax Shown by Verbose Listing.md",
-    "Python/Book_Testing-Brian-Okken/Debugging Test Failures in pytest.md",
-    "Python/Book_Testing-Brian-Okken/Creating a Distribution.md",
     "Python/Book_Testing-Brian-Okken/Configuration Files.md",
     "Python/Book_Testing-Brian-Okken/Changing the Default Command-Line Options.md",
-    "Python/Book_Testing-Brian-Okken/Changing Test Discovery Rules.md",
     "Python/Regular Expressions \"Regex\".md",
     "Python/Threading, Hashing, CSV.md",
     "Python/Boolean and Logical Values.md",
-    "Python/Input and Type Conversion.md",
-    "Python/Lists and Dictionaries.md",
-    "Python/Lambda, pass, continue.md",
-    "Linux/Search Tools.md",
-    "Linux/Python & Virtual Envs.md",
-    "Linux/GIT - Core Commands.md",
-    "English/English Tenses — Full Cheat Sheet.md",
-    "English/The артикль.md",
     "CCNA 200-301",
     "Untitled.base",
     "Untitled 1.base",
