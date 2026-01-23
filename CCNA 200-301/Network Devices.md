@@ -30,7 +30,7 @@ Are specialty network security devices that control network traffic entering and
 
 
 
-#sh14
+#sh7 
 
 
 

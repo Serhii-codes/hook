@@ -5,7 +5,7 @@ automatically finds tests you’ve written, runs the tests, and reports the resu
 [[Pytest-xdist Parallel Execution]]
 [[Reports]]
 [[Running Tests]]
-[[Setup and Teardown "fixture"]]
+[[Setup and Teardown fixture]]
 [[Useful CLI Options]]
 [[Fixture Scope]]
 [[Marker Combinations]]

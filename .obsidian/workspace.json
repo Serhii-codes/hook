@@ -4,11 +4,131 @@
     "type": "split",
     "children": [
       {
-        "id": "8186c93debfafd3d",
+        "id": "73b8a8c3a80166cb",
         "type": "tabs",
         "children": [
           {
-            "id": "9605411cb6ed5216",
+            "id": "c701da8c1579e924",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CCNA 200-301/Cables.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Cables"
+            }
+          },
+          {
+            "id": "31e8a19e1bc9afad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CCNA 200-301/CCNA 200-301.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "CCNA 200-301"
+            }
+          },
+          {
+            "id": "6241b904270311a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CCNA 200-301/Encapsulation and decapsulation.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Encapsulation and decapsulation"
+            }
+          },
+          {
+            "id": "770d22ec26088f84",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CCNA 200-301/Network Devices.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Network Devices"
+            }
+          },
+          {
+            "id": "b7ece2ac3a6bbf5f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CCNA 200-301/Protocol data units.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Protocol data units"
+            }
+          },
+          {
+            "id": "d483c9f32a21314b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,7 +152,7 @@
             }
           },
           {
-            "id": "e2f54c261d982d36",
+            "id": "09a95bd30bf090fa",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -54,8 +174,33 @@
               "icon": "lucide-file",
               "title": "TCP_IP models"
             }
+          },
+          {
+            "id": "9b0f7595639425bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CCNA 200-301/Adjacent-layer interaction.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Adjacent-layer interaction"
+            }
           }
-        ]
+        ],
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -87,7 +232,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#sh01",
+                "query": "#sh07",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -108,11 +253,12 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 256.5
+    "width": 457.5
   },
   "right": {
     "id": "8c49baaa45b44081",
@@ -203,34 +349,34 @@
       "bases:Create new base": false
     }
   },
-  "active": "9605411cb6ed5216",
+  "active": "9b0f7595639425bb",
   "lastOpenFiles": [
+    "CCNA 200-301/The OSI model.md",
     "CCNA 200-301/TCP_IP models.md",
     "CCNA 200-301/TCP_IP.md",
     "CCNA 200-301/Protocol data units.md",
-    "CCNA 200-301/The OSI model.md",
-    "CCNA 200-301/Adjacent-layer interaction.md",
-    "CCNA 200-301/Encapsulation and decapsulation.md",
-    "CCNA 200-301/Network Devices.md",
     "CCNA 200-301/Packet Tracer.md",
+    "CCNA 200-301/Network Devices.md",
+    "CCNA 200-301/Encapsulation and decapsulation.md",
     "CCNA 200-301/CCNA 200-301.md",
+    "CCNA 200-301/Cables.md",
+    "My Obsidian Calendar.md",
+    "CCNA 200-301/Adjacent-layer interaction.md",
+    "English/USED TO vs WOULD.md",
+    "Python/Web Frameworks and Libraries.md",
+    "Python/Threading, Hashing, CSV.md",
+    "Python/Strings.md",
+    "Python/Regular Expressions Regex.md",
+    "Python/Pytest/Reports.md",
+    "Python/Pytest/Setup and Teardown fixture.md",
+    "Python/Pytest/yml file fo CI github actions.md",
+    "English/Present Perfect Simple vs Past Simple.md",
     "Linux/Search Tools.md",
     "Linux/File & Directory Operations.md",
     "Курс співбесіда/Курс IT-співбесіда/Де Ви себе бачите через N років.md",
     "Linux/Systemd and Runlevels.md",
     "Linux/Navigation.md",
     "Курс співбесіда/Курс IT-співбесіда/Ваші слабкі сторони.md",
-    "Linux/Standard  Streams.md",
-    "Linux/Links Hard & Soft.md",
-    "Linux/Python & Virtual Envs.md",
-    "Linux/Системи віртуалізації та віртуальні машини (VM).md",
-    "Курс співбесіда/Курс IT-співбесіда/Framework питань.md",
-    "Курс співбесіда/Курс IT-співбесіда/Розкажіть щось про себе.md",
-    "Курс співбесіда/Курс IT-співбесіда/Курс IT-співбесіда.md",
-    "Курс співбесіда/Курс IT-співбесіда/Важливість підготовки до співбесід.md",
-    "Linux/Disk _ Space commands.md",
-    "Python/Book_Testing-Brian-Okken/Skipping Tests.md",
-    "Python/Lists and Dictionaries.md",
     "Croso_cables 1.png",
     "Croso_cables.png",
     "CCNA 200-301",
