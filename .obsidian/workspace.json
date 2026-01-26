@@ -8,180 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c701da8c1579e924",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CCNA 200-301/Cables.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Cables"
-            }
-          },
-          {
-            "id": "31e8a19e1bc9afad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CCNA 200-301/CCNA 200-301.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "CCNA 200-301"
-            }
-          },
-          {
-            "id": "6241b904270311a1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CCNA 200-301/Encapsulation and decapsulation.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Encapsulation and decapsulation"
-            }
-          },
-          {
-            "id": "770d22ec26088f84",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CCNA 200-301/Network Devices.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Network Devices"
-            }
-          },
-          {
-            "id": "b7ece2ac3a6bbf5f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CCNA 200-301/Protocol data units.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Protocol data units"
-            }
-          },
-          {
-            "id": "d483c9f32a21314b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CCNA 200-301/TCP_IP.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "TCP_IP"
-            }
-          },
-          {
-            "id": "09a95bd30bf090fa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CCNA 200-301/TCP_IP models.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "TCP_IP models"
-            }
-          },
-          {
             "id": "9b0f7595639425bb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CCNA 200-301/Adjacent-layer interaction.md",
+                "file": "CCNA 200-301/Cisco IOS CLI.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -196,11 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Adjacent-layer interaction"
+              "title": "Cisco IOS CLI"
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "vertical"
@@ -232,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "#sh07",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -253,12 +84,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 457.5
+    "width": 251.5
   },
   "right": {
     "id": "8c49baaa45b44081",
@@ -351,6 +181,8 @@
   },
   "active": "9b0f7595639425bb",
   "lastOpenFiles": [
+    "CCNA 200-301/Adjacent-layer interaction.md",
+    "CCNA 200-301/Cisco IOS CLI.md",
     "CCNA 200-301/The OSI model.md",
     "CCNA 200-301/TCP_IP models.md",
     "CCNA 200-301/TCP_IP.md",
@@ -361,7 +193,6 @@
     "CCNA 200-301/CCNA 200-301.md",
     "CCNA 200-301/Cables.md",
     "My Obsidian Calendar.md",
-    "CCNA 200-301/Adjacent-layer interaction.md",
     "English/USED TO vs WOULD.md",
     "Python/Web Frameworks and Libraries.md",
     "Python/Threading, Hashing, CSV.md",
@@ -376,7 +207,6 @@
     "Курс співбесіда/Курс IT-співбесіда/Де Ви себе бачите через N років.md",
     "Linux/Systemd and Runlevels.md",
     "Linux/Navigation.md",
-    "Курс співбесіда/Курс IT-співбесіда/Ваші слабкі сторони.md",
     "Croso_cables 1.png",
     "Croso_cables.png",
     "CCNA 200-301",
