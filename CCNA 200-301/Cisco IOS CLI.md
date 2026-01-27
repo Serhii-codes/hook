@@ -77,4 +77,4 @@ Router(config)#**write memory**
 Router (config)#**copy running-config startup-config**
 ##saves the configuration
 
-#sh01
+#sh3 

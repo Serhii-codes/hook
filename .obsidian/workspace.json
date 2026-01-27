@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#sh3",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,7 +84,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -179,7 +180,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "9b0f7595639425bb",
+  "active": "8eaf65790aa130ae",
   "lastOpenFiles": [
     "CCNA 200-301/Adjacent-layer interaction.md",
     "CCNA 200-301/Cisco IOS CLI.md",
