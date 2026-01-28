@@ -17,4 +17,4 @@
 - Show the last 10 lines (default).
 - `tail -n 20 file` — last 20 lines.
 
-#sh14
+#sh30

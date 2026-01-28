@@ -32,3 +32,4 @@
 - _We didn’t understand lectures last week._ (якщо їх було кілька й кажемо узагальнено → без the).
 
 #sh3
+#sh07

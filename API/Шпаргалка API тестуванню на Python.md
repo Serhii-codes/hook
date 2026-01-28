@@ -94,3 +94,4 @@ response = requests.get(url, timeout=5)
 4. Використовуй `pytest.raises` для перевірки виключень при неправильних даних.
 
 #sh3 #pytest #api
+#sh07

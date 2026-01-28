@@ -65,4 +65,4 @@ Why are the wire pairs in a UTP cable twisted together?
 If Auto MDI-X is disabled, what kind of UTP cable should be used to connect a PC and a switch?
 - *straight-through cable*
 
-#sh7
+#sh07

@@ -18,3 +18,4 @@ output = re.findall(r'\b[C-Z]\w{3}\b',list_a) - приклад пошуку по
 - URL: `https?://[\w./%-]+`
 
 #sh3 
+#sh07

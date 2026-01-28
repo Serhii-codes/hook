@@ -148,4 +148,5 @@ Adverbs can be placed:
 Adverbs describe **how, when, where, how often, why, and to what degree** an action happens.  
 Вони можуть змінювати не тільки дієслова, а й прикметники, інші прислівники та навіть цілі речення.
 
-#sh3 
+#sh3
+#sh07
