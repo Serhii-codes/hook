@@ -373,7 +373,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CCNA 200-301/Adjacent-layer interaction.md",
+                "file": "Linux/SSH Keys — нотатки по генерації.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -388,7 +388,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Adjacent-layer interaction"
+              "title": "SSH Keys — нотатки по генерації"
             }
           }
         ],
@@ -540,8 +540,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "e5114d6665321d60",
+  "active": "fad6fc6c11533e94",
   "lastOpenFiles": [
+    "CCNA 200-301/Adjacent-layer interaction.md",
+    "Linux/SSH Keys — нотатки по генерації.md",
     "CCNA 200-301/The OSI model.md",
     "CCNA 200-301/TCP_IP models.md",
     "CCNA 200-301/TCP_IP.md",
@@ -558,7 +560,6 @@
     "CCNA 200-301/CCNA 200-301.md",
     "CCNA 200-301/Cables.md",
     "My Obsidian Calendar.md",
-    "CCNA 200-301/Adjacent-layer interaction.md",
     "API/Шпаргалка API тестуванню на Python.md",
     "English/USED TO vs WOULD.md",
     "Python/Regular Expressions Regex.md",
@@ -567,7 +568,6 @@
     "Python/Pytest/Pytest.raises.md",
     "English/Past perfect simple vs Past perfect continuous Table.md",
     "Python/Pytest/Parametrize Fixture.md",
-    "Python/Object-Oriented Programming OOP.md",
     "Croso_cables 1.png",
     "Croso_cables.png",
     "CCNA 200-301",
