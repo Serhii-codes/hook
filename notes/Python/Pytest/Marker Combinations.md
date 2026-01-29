@@ -1,0 +1,3 @@
+- `pytest -m "smoke and regression" -v` — вивід тестів які мають декораторами "smoke and regression"
+- `pytest -m "smoke or regression" -v` — вивід всіх тестів які з декораторами "smoke and regression"
+- `pytest -m "not regression" -v` — вивід всіх тестів які не мають декоратора "regression"

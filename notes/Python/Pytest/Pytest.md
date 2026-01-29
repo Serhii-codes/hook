@@ -1,0 +1,20 @@
+Pytest is a software test framework, which means pytest is a command-line tool that
+automatically finds tests you’ve written, runs the tests, and reports the results.
+[[AQA Automation Basics]]
+[[Parametrize]]
+[[Pytest-xdist Parallel Execution]]
+[[Reports]]
+[[Running Tests]]
+[[Setup and Teardown fixture]]
+[[Useful CLI Options]]
+[[Fixture Scope]]
+[[Marker Combinations]]
+[[Markers]]
+[[Pytest.raises]]
+[[Test Order]]
+[[TOX and CI]]
+[[Testing Script and apllications]]
+[[Debugging test feiler]]
+[[Third party plugins]]
+[[Type of tests]] 
+
